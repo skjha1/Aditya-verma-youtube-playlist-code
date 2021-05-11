@@ -1,5 +1,6 @@
-# Aditya-verma-youtube-playlist-code
+## Aditya-verma-youtube-playlist-code
 This repo consists of aditya verma youtube channel code for different section.
+If you want to explore more programes of DSA you can visit this [REPO](https://github.com/skjha1/Data-Structure-Algorithm-Programs)
 
 ## Dynamic Programming
 |  S.No  | Problem         |  Handwritten Notes       |  Time           | Space           |
