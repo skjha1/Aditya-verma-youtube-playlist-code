@@ -45,9 +45,8 @@ This repo consists of aditya verma youtube channel code for different section.
 39 |[Egg dropping problem memoization optimization](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Algorithms/Dynamic%20Programming/39%20Egg%20dropping%20problem%20memoization%20optimization.cpp) | [:blue_book:](https://drive.google.com/file/d/14OhSFRAEV82dijgEJisKekM0Gw7ZB9zs/view?usp=sharing) | _O(N*W)_       | _O(N*W)_          |
 40 |[Dynamic programming on trees Syntax](#) |[:blue_book:](https://drive.google.com/file/d/19KENQURNp2WXtJlCiuvNpMhqGfhPTh37/view?usp=sharing)  | _O(N*W)_       | _O(N*W)_          |
 41 |[Diameter of binary tree](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Algorithms/Dynamic%20Programming/40%20Diameter%20of%20binary%20tree.cpp) |  [:blue_book:](https://drive.google.com/file/d/1bUfIJNZHR7dN6ApoWPcQGRnv-1iGleht/view?usp=sharing)| _O(N*W)_       | _O(N*W)_          |
-42 |[Max path sum from any node to any](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Algorithms/Dynamic%20Programming/41%20Max%20path%20sum%20from%20any%20node%20to%20any.cpp) | [:blue_book:](https://drive.google.com/file/d/1DMU1wcmfWCr-0Bi8JP0oTzb3CN_LOvLm/view?usp=sharing) | _O(N*W)_       | _O(N*W)_          |
-43 |[ Max path sum from leaf to leaf](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Algorithms/Dynamic%20Programming/42%20Max_path_sum_from_leaf_to_leaf.cpp)
- | [:blue_book:](https://drive.google.com/file/d/1jXho_vvWeDHgMtDRkqt_AzE8J8UCSJSg/view?usp=sharing)| _O(N*W)_       | _O(N*W)_          |
+42 | |  | _O(N*W)_       | _O(N*W)_          |
+43 | |  | _O(N*W)_       | _O(N*W)_          |
 
 
 
