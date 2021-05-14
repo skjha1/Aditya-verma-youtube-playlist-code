@@ -50,6 +50,10 @@ If you want to explore more programes of DSA you can visit this [REPO](https://g
 43 | [ Max path sum from leaf to leaf](https://github.com/skjha1/Data-Structure-Algorithm-Programs/blob/master/src/Algorithms/Dynamic%20Programming/42%20Max_path_sum_from_leaf_to_leaf.cpp)|  [:blue_book:](https://drive.google.com/file/d/1jXho_vvWeDHgMtDRkqt_AzE8J8UCSJSg/view?usp=sharing)| _O(N*W)_       | _O(N*W)_          |
 
 
+## Stack 
 
 
 
+|  S.No  | Problem         |  Handwritten Notes       |  Time           | Space           |
+|-----|---------------- | --------------- | --------------- | --------------- | 
+1 | [Nearest greater to right](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Stack/01%20Nearest%20greater%20to%20right.cpp) | [:blue_book:](https://drive.google.com/file/d/1K0GOA7KaNPVq6mW09MUwzdD9RnrT4iNd/view?usp=sharing)  | _O(n)_       | _O(n)_          |
