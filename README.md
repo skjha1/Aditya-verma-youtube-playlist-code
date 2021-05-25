@@ -63,3 +63,20 @@ If you want to explore more programes of DSA you can visit this [REPO](https://g
 5 | [Stock span problem](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Stack/05%20Stock%20span%20problem.cpp) | [:blue_book:](https://drive.google.com/file/d/1-NqGSrilyDOBBXfqSrCgUFXFi6Qmjn9p/view?usp=sharing)  | _O(n)_       | _O(n)_          |
 5 | [Maximum Rectangular Area in a Histogram](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Stack/06%20Maximum%20Rectangular%20Area%20in%20a%20Histogram.cpp) | [:blue_book:](https://drive.google.com/file/d/19q3tYzuIKTNLd9yq0mPbSAyOQvx3tvcV/view?usp=sharing)  | _O(n)_       | _O(n)_          |
 6 | [Max area rectangle in Binary matrix](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Stack/07%20Max%20area%20rectangle%20in%20Binary%20matrix.cpp) | [:blue_book:](https://drive.google.com/file/d/1ckMtxRT61WyfWW_flioPFCFn47mcY-o2/view?usp=sharing)  | _O(n)_       | _O(n)_          |
+
+
+
+
+
+
+
+
+
+## Binary Search
+
+|  S.No  | Problem         |  Handwritten Notes       |  Time           | Space           |
+|-----|---------------- | --------------- | --------------- | --------------- | 
+1 | [Binary Search](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Binary%20Search/01%20Binary%20search.cpp) | [:blue_book:](https://drive.google.com/file/d/1Pv4r3xKmwmHhtbvc8VmKkK2VdNblnsRn/view?usp=sharing)  | _O(logn)_       | _O(logn)_          |
+2 | [Binary search on reverse sorted array](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Binary%20Search/02%20Binary%20search%20on%20reverse%20sorted%20array.cpp) | [:blue_book:](https://drive.google.com/file/d/1Pv4r3xKmwmHhtbvc8VmKkK2VdNblnsRn/view?usp=sharing)  | _O(logn)_       | _O(logn)_          |
+3 | [Order not known or Agonostic BS](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Binary%20Search/03%20Order%20not%20known%20or%20Agonostic%20BS.cpp) | [:blue_book:](https://drive.google.com/file/d/1Pv4r3xKmwmHhtbvc8VmKkK2VdNblnsRn/view?usp=sharing)  | _O(logn)_       | _O(logn)_          |
+
