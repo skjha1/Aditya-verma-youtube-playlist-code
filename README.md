@@ -1,5 +1,5 @@
 ## Aditya-verma-youtube-playlist-code
-This repo consists of aditya verma youtube channel code for different section.
+This repo consists of aditya verma youtube channel code for different section, I am still working this soon it will be updated fully, This repo I made for the purpose of revision Time and space complexity will be updated for all programs.
 If you want to explore more programes of DSA you can visit this [REPO](https://github.com/skjha1/Data-Structure-Algorithm-Programs)
 
 ## Dynamic Programming
@@ -79,4 +79,19 @@ If you want to explore more programes of DSA you can visit this [REPO](https://g
 1 | [Binary Search](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Binary%20Search/01%20Binary%20search.cpp) | [:blue_book:](https://drive.google.com/file/d/1Pv4r3xKmwmHhtbvc8VmKkK2VdNblnsRn/view?usp=sharing)  | _O(logn)_       | _O(logn)_          |
 2 | [Binary search on reverse sorted array](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Binary%20Search/02%20Binary%20search%20on%20reverse%20sorted%20array.cpp) | [:blue_book:](https://drive.google.com/file/d/1Pv4r3xKmwmHhtbvc8VmKkK2VdNblnsRn/view?usp=sharing)  | _O(logn)_       | _O(logn)_          |
 3 | [Order not known or Agonostic BS](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Binary%20Search/03%20Order%20not%20known%20or%20Agonostic%20BS.cpp) | [:blue_book:](https://drive.google.com/file/d/1Pv4r3xKmwmHhtbvc8VmKkK2VdNblnsRn/view?usp=sharing)  | _O(logn)_       | _O(logn)_          |
+
+
+
+
+
+
+
+
+## Heap
+
+|  S.No  | Problem         |  Handwritten Notes       |  Time           | Space           |
+|-----|---------------- | --------------- | --------------- | --------------- | 
+1 | [Kth smallest element](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Heap/01%20Kth%20smallest%20element.cpp) | [:blue_book:](https://drive.google.com/file/d/1Pv4r3xKmwmHhtbvc8VmKkK2VdNblnsRn/view?usp=sharing)  | _O(n log k)_       | _O(n log k)_          |
+2 | [Kth largest element in an array](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Heap/02%20Kth%20largest%20element%20in%20an%20array.cpp) | [:blue_book:](https://drive.google.com/file/d/1Pv4r3xKmwmHhtbvc8VmKkK2VdNblnsRn/view?usp=sharing)  | _O(n log k)_       | _O(n log k)_          |
+3 | [Nearly Sorted Algorithm or sort k sorted array](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Heap/03%20Nearly%20Sorted%20Algorithm%20or%20sort%20k%20sorted%20array.cpp) | [:blue_book:](https://drive.google.com/file/d/1Pv4r3xKmwmHhtbvc8VmKkK2VdNblnsRn/view?usp=sharing)  | _O(n log k)_       | _O(n log k)_          |
 
