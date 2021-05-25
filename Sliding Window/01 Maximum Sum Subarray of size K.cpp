@@ -9,12 +9,12 @@ int maximumSumSubarray(int K, vector<int> &Arr , int N){
   int sum=0;
   int mx=INT_MIN;
   while (j<N){
-    sum=sum+Arr[j];
-    if (j-i+1<K) J++;
-    else if ((j-i+1)==K)
+    sum=sum+Arr[j]; // do calculation to reduse tc
+    if (j-i+1<K) J++; // increament j upto when the size of the size of window is not equal to required size
+    else if ((j-i+1)==K) // when sindow size hit to the required window size 
     {
-      mx=max(mx,sum);
-      sum=sum-Arr[i];
+      mx=max(mx,sum); // selecting ans from the candidates
+      sum=sum-Arr[i]; // start removing from the first
       i++;
       j++;
     }
