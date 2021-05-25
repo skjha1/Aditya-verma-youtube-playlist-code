@@ -106,5 +106,7 @@ If you want to explore more programes of DSA you can visit this [REPO](https://g
 |  S.No  | Problem         |  Handwritten Notes       |  Time           | Space           |
 |-----|---------------- | --------------- | --------------- | --------------- | 
 1 | [Maximum Sum Subarray of size K](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Sliding%20Window/01%20Maximum%20Sum%20Subarray%20of%20size%20K.cpp) | [:blue_book:](https://drive.google.com/file/d/1ppRCKREsg4nysKrKncm2xre7D_IDUGaT/view?usp=sharing)  | _O(n)_       | _O(1)_          |
+2 | [First negative integer in every window of size k](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Sliding%20Window/02%20First%20negative%20integer%20in%20every%20window%20of%20size%20k.cpp) | [:blue_book:](https://drive.google.com/file/d/17CwCrHr3DqJQ57hozH1peyDSfwUBvFT4/view?usp=sharing)  | _O(n)_       | _O(K)_          |
+
 
 
