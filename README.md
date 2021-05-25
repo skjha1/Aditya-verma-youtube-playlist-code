@@ -95,3 +95,16 @@ If you want to explore more programes of DSA you can visit this [REPO](https://g
 2 | [Kth largest element in an array](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Heap/02%20Kth%20largest%20element%20in%20an%20array.cpp) | [:blue_book:](https://drive.google.com/file/d/1Pv4r3xKmwmHhtbvc8VmKkK2VdNblnsRn/view?usp=sharing)  | _O(n log k)_       | _O(n log k)_          |
 3 | [Nearly Sorted Algorithm or sort k sorted array](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Heap/03%20Nearly%20Sorted%20Algorithm%20or%20sort%20k%20sorted%20array.cpp) | [:blue_book:](https://drive.google.com/file/d/1Pv4r3xKmwmHhtbvc8VmKkK2VdNblnsRn/view?usp=sharing)  | _O(n log k)_       | _O(n log k)_          |
 
+
+
+
+
+
+
+## Sliding Window
+
+|  S.No  | Problem         |  Handwritten Notes       |  Time           | Space           |
+|-----|---------------- | --------------- | --------------- | --------------- | 
+1 | [Maximum Sum Subarray of size K](https://github.com/skjha1/Aditya-verma-youtube-playlist-code/blob/main/Sliding%20Window/01%20Maximum%20Sum%20Subarray%20of%20size%20K.cpp) | [:blue_book:](https://drive.google.com/file/d/1ppRCKREsg4nysKrKncm2xre7D_IDUGaT/view?usp=sharing)  | _O(n)_       | _O(1)_          |
+
+
