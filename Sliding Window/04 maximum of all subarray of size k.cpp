@@ -6,7 +6,7 @@ public:
         int i=0;
         int j=0;
         
-        if (k>nums.size())
+        if (k>nums.size()) // edge case
         {
             ans.push_back(*max_element(nums.begin(),nums.end()));
             return ans;
@@ -21,7 +21,7 @@ public:
             l.push_back(nums[j]);
             if ((j-i+1)<k)
                 j++;
-            if (j-i+1==k)
+            else if (j-i+1==k)
             {
                 ans.push_back(l.front());
                 if (l.front()==nums[i])
@@ -29,8 +29,6 @@ public:
                 i++;
                 j++;
             }
-            if (k>nums.size())
-                ans.push_back(*max_element(nums.begin(),nums.end()));
             
         }
         return ans;
