@@ -8,7 +8,7 @@ public:
         
         if (k>nums.size()) // edge case
         {
-            ans.push_back(*max_element(nums.begin(),nums.end()));
+            ans.push_back(*max_element(l.begin(),l.end()));
             return ans;
         }
         
