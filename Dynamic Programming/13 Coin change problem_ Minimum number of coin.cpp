@@ -29,7 +29,7 @@ int getMinNumberOfCoins(int coins[], int n, int sum) {
 			else
 				t[i][j] = t[i - 1][j];
 
-	return t[n][sum];
+	 return t[n][sum]==INT_MAX-1?-1:t[n][sum]; 
 }
 
 signed main() {
