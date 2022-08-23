@@ -1,4 +1,4 @@
-//https://www.geeksforgeeks.org/find-position-element-sorted-array-infinite-numbers/#:~:text=So%20in%20order%20to%20find,and%20double%20the%20high%20index.
+//shorturl.at/gqAGV
 int binarySearch(int arr[], int l, int r, int x)
 {
     if (r>=l)
