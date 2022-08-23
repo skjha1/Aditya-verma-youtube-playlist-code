@@ -1,0 +1,29 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int peakEle(int arr[],int n)
+{
+    int start=0;
+    int end=n-1;
+
+    while(start<end){
+      int mid=start+(end-start)/2;
+
+      if(arr[mid]<arr[mid+1])
+        start=mid+1;
+      else
+        end=mid;
+    }
+    //if you need Peak element
+        // return arr[start];
+
+    //if you need Peak element index
+        return start;
+}
+int main()
+{
+    int arr[] = {5,10,20,15};
+    int n=sizeof(arr)/sizeof(arr[0]);
+    cout<<peakEle(arr,n);
+
+}
