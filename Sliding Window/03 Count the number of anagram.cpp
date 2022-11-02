@@ -2,7 +2,7 @@ class Solution{
   public:
   
   int search(string pat, string txt) {
-  unordered_map <char, int=""> m;
+  unordered_map <char, int> m;
   for(auto i: pat)
   m[i]++;
 
