@@ -5,8 +5,7 @@ class
     vector<long long> v; // creating a vector for storing result 
     stack <long long> s; // creating a stack for temp. hold the values from array
     for (int i=n-1;i>=0;i--){
-      if(s.size() ==0) // whe
-n stack size is empty there is no element in stack return output as -1;
+      if(s.size() ==0) // when stack size is empty there is no element in stack return output as -1;
         v.push_back(-1);
       else if (s.size()>0 && s.top()>arr[i]) // when there is element in stack and stack top is greater then array element 
       {
