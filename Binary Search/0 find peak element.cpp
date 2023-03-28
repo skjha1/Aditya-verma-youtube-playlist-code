@@ -2,6 +2,8 @@ class Solution {
 public:
     int findPeakElement(vector<int>& nums) {
         int n=nums.size();
+        if(n==1)
+            return 0; // basically when we have only one element in the array return the index of the only element present in it.
         int start=0;
         int  end= n-1;
         while (start<=end)
