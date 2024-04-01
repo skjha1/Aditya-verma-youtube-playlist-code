@@ -6,6 +6,7 @@ Starting a new 100-day journey with LeetCode problems! Simplifying the tough one
 🚀 #LeetCodeSimplified
 
 ***[The-Leetcode-Sprint](https://github.com/skjha1/The-Leetcode-Sprint)***
+### Let's connect on discord for Technical and DSA related Discussion: [DisCord](https://discord.gg/TsRKzEG9)
 
 If you want to explore more programes of DSA you can visit this [REPO](https://github.com/skjha1/Data-Structure-Algorithm-Programs)
 
